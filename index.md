@@ -1,6 +1,5 @@
 ---
-title: GitHub Page - Wade Fields
-description: A testbed for how I can use GitHub pages
+layout: default
 ---
 
 # How does the local site update?

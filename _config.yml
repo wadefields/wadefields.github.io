@@ -1,3 +1,4 @@
 theme: jekyll-theme-tactile
-title: GitHub Page - Wade Fields
+title: GitHub Pages - Wade Fields
 description: A testbed for how I can use GitHub pages
+permalink: /blog/:year/:month/:day/:title

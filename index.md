@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+---
+title: GitHub Page - Wade Fields
+description: A testbed for how I can use GitHub pages
+---
+
+# How does the local site update?
+
 
 You can use the [editor on GitHub](https://github.com/wadefields/wadefields.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

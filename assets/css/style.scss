@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+
+nav li {
+  list-style: none;
+  display: inline-flex;
+}

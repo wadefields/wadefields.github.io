@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Home
 ---
 
-# How does the local site update?
+## How does the local site update?
 
 
 You can use the [editor on GitHub](https://github.com/wadefields/wadefields.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

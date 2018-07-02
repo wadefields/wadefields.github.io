@@ -183,3 +183,4 @@ footer a:hover { color: #444; }
   .inner { width: 94%; margin: 0 auto; } }
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+nav li { list-style: none; display: inline-flex; }

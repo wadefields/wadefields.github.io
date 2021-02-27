@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-tactile
 title: GitHub Pages - Wade Fields
 description: A testbed for how I can use GitHub pages
 permalink: /blog/:year/:month/:day/:title

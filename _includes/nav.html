@@ -4,10 +4,9 @@
 			{% for page in site.pages %} 
 				<!-- {% if page.title %} -->
         <!-- {% unless page.title == 'Home' %} -->
-			<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+			<li><a href="{{ page.url }}">{{ page.title }}</a></li>
         <!-- {% endunless %} -->
 				<!-- {% endif %}  -->
 			{% endfor %}
-			<li>List Item</li>
 	</ul>
 </nav>

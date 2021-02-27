@@ -1,10 +1,12 @@
 <nav>
 	<ul>
         <!-- <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li> -->
-				{% for page in site.pages %} {% if page.title %}
+			{% for page in site.pages %} 
+				<!-- {% if page.title %} -->
         <!-- {% unless page.title == 'Home' %} -->
-				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+			<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
         <!-- {% endunless %} -->
-				{% endif %} {% endfor %}
+				<!-- {% endif %}  -->
+			{% endfor %}
 	</ul>
 </nav>

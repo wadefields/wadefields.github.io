@@ -1,9 +1,11 @@
 theme: jekyll-theme-tactile
 title: Wade Fields
+
+baseurl: "" # does not include hostname
+
 description: GitHub pages
 permalink: /blog/:year/:month/:day/:title
 include: ['_pages']
 
 repository: wadefields/wadefields.github.io
 
-baseurl: "" # does not include hostname

@@ -5,3 +5,5 @@ permalink: /blog/:year/:month/:day/:title
 include: ['_pages']
 
 repository: wadefields/wadefields.github.io
+
+baseurl: "" # does not include hostname
